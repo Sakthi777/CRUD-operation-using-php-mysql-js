@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Libre+Baskerville:ital@1&display=swap');
+*{
+    font-family:'Libre Baskerville',serif;
+}
+
+.heading{
+    text-align: center;
+    border: 1px solid gray;
+    color: white;
+    width:75%;
+    margin-left:150px;
+    background-color: gray;
+    padding: 15px;
+    border-radius: 8px;
+}
+.d-flex{
+    margin-left: 450px;
+}
+.create{
+    background-color: green;
+    margin-right: 5px;
+}
+.read{
+    background-color: royalblue;
+    margin-right: 5px;
+}
+.update{
+    background-color:yellow;
+    margin-right: 5px;
+}
+.delete{
+    background-color:red;
+    margin-right: 5px;
+}
+table{
+    margin-left:250px;
+    margin-top: 30px;
+    width: 50%;
+    align-items: center;
+    
+}
+
